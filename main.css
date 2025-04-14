@@ -1,0 +1,20 @@
+@media all and (min-width:0px) and (max-width:330px){
+    #option{
+        display: flex;
+        flex-direction: column;
+    }
+
+    #header > img {
+        height: 22px;
+        width: 27px;
+    }
+
+    #search{
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        height: 60px;
+        width: 80px;
+        margin-top: 20px;
+    }
+}
